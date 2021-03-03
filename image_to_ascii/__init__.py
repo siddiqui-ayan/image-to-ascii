@@ -1,1 +1,1 @@
-from image_to_ascii.imageToAscii import mageToAscii
+from image_to_ascii.imageToAscii import ImageToAscii

@@ -21,9 +21,9 @@ class ImageToAscii:
             width, height = self.image.size
             totalPixels = width * height
         except:
-            if path is None:
+            if imagePath is None:
                 print("Invalid path name")
-            elif self.width is None:
+            elif self.witdh is None:
                 print("Invalid Width provided")        
         self.new_image_data = self.pixelsToAscii(self.converToGrayscale(self.resizeImage(self.image)))
 
