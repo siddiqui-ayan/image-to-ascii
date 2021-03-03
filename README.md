@@ -4,7 +4,10 @@ image-to-ascii is a python module created for creating Ascii art from any given 
 ![Banner](/images/Ascii-example.PNG)
 **ORIGNAL IMAGE**
 ![Banner](/images/pickachu.png)
-
+**ASCII IMAGE**
+![Bannerr](/images/pogimane-ascii.png)
+**ORIGINAL IMAGE**
+![Bannerr](/images/pogimane.png)
 
 ## Getting Started
 1) Install Python 3.6 or newer. https://www.python.org/downloads/
