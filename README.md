@@ -5,6 +5,7 @@ image-to-ascii is a python module created for creating Ascii art from any given 
 ![Banner](/images/Ascii-example.PNG)
 
 **ORIGNAL IMAGE**
+
 ![Banner](/images/pickachu.png)
 
 
