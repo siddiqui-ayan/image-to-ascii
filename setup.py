@@ -1,15 +1,16 @@
 
 from distutils.core import setup
 setup(
-  name = 'image-to-ascii',       
+  name = 'imageToAscii',       
   packages = ['image_to_ascii'], 
   version = '0.1',      
   license='MIT',
   description = 'A simple python library to convert images to ASCII art',
+  long_description="README.md",
   author = 'Aypro',
   author_email = 'ayprogaming1@gmail.com',
-  url = 'https://github.com/user/reponame',
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
+  url = 'https://github.com/aypro-droid/image-to-ascii',
+  download_url = 'https://github.com/aypro-droid/image-to-ascii/archive/v_01.zip',
   keywords = ['IMAGE','TO','ASCII','ASCII', 'ART'],
   install_requires=[
           'pillow'

@@ -10,7 +10,7 @@ image-to-ascii is a python module created for creating Ascii art from any given 
 1) Install Python 3.6 or newer. https://www.python.org/downloads/
 2) Open cmd/terminal and type:
 
-        pip install image-to-ascii
+        pip install imageToAscii
 
 
 If you want to install the newest version from git, you can install like this:
