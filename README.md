@@ -41,7 +41,7 @@ ImageToAscii(imagePath="path/to/file",outputFile="output.txt")
 If you would like to contribute, go ahead! I appreciate it.
 
 ## Support
-If you need any help you can ask me on discord Not Aypro#6969
+If you need any help you can ask me on discord `Nai Aypro#1161`
 
 ## Donations
 If you want to donate you can by going to https://paypal.me/dontlimitmegaypal
