@@ -44,7 +44,7 @@ If you would like to contribute, go ahead! I appreciate it.
 If you need any help you can ask me on discord `Nai Aypro#1161`
 
 ## Donations
-If you want to donate you can by going to https://paypal.me/dontlimitmegaypal
+If you want to donate you can by going to https://paypal.me/waifly
 
 ## Copyright
 All images are subject to copyright
