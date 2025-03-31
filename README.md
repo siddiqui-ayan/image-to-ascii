@@ -44,7 +44,7 @@ If you would like to contribute, go ahead! I appreciate it.
 If you need any help you can ask me on discord `Nai Aypro#1161`
 
 ## Donations
-If you want to donate you can by going to https://paypal.me/waifly
+If you want to donate you can by going to
 My bitcoin address: bc1qgvd5xsmc5vvmgr4t044f98wdcyxdk5gzwnac4l
 
 ## Copyright
